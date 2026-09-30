@@ -16,7 +16,7 @@ def health():
 tasks = [
     {
         "id": 1,
-        "task": "Learn Docker",
+        "task": "Learn Docker and Kubernetes",
         "completed": False
     },
     {
